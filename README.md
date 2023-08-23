@@ -1,2 +1,2 @@
 # k8-security
-from abihskek devops course
+from abi devops course
